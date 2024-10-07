@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <link rel='stylesheet' type='text/css' href='style.css'
+<meta charset="UTF-8">
+<title>HOLA MÓN!</title>
+</head>
+<h1> <font COLOR="yellow">HOLA MÓN! </font> </h1>
+<body>
+<h2><font COLOR="red">Presentació personal</font> </h2>
+<h3>Sobre mi</h3>
+<br>
+
+<p>Hola! Sóc en <span class="colored-text">Jan Vila Antonell</span>, sòc de Taradell i tinc 16 anys.
+<p>Estic cursant 1r de batxillerat i actualment estic cursant l'assignatura de programació, a l'institut de Taradell,no m' agrada estudiar ni llegir, jugo a futbol i també m'agrada molt mirar-lo. </p>
+
+<p class='p1'>yfjgkhljkhjkghjhkjluiyughjbhkjluiyughj</p>
+
+<a href="http://www.marcroca.com">visita la meva web profecional</a>
+
+<img src="http://marcroca.com/wp-content/uploads/DSF1527.jpg"/>
+
+
+<p>ghjgkhljhjkghfgjhjhjkghfjgjhjhgjkhghkjlklhjghfjgkhlkgjhfghgjhkjlkjfhgmjhkgh
+jhghkluyufjhjhkluyuityfhjkhuiughj
+jhgkhlyujhjhklikgjh
+</p>
+</body>
+</html>
+
